@@ -1,5 +1,10 @@
-.App {
+.Main-Div {
   text-align: center;
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
 }
 
 .App-logo {
